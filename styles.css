@@ -1,0 +1,20 @@
+html {
+    margin: 10px;
+    background-color:azure;
+    font-family:monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+ul > li {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 1em;
+
+}
